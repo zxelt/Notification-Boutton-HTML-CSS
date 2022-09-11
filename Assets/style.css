@@ -1,0 +1,38 @@
+/* Bell Background */
+.Notif-btn{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(207, 207, 207);
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+/* Bell Image */
+.bell{
+    width: 100px;
+    height: 100px;
+}
+/* Alert (red) */
+.alert{
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    border-radius: 100%;
+    margin-top: -120px;
+    margin-left: 80px;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+}
+/* Number of alert */
+.notif-number{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    position: relative;
+    right: -7.5px;
+    top: 7%;
+}
